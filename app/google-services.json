@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829976974493",
+    "firebase_url": "https://laboratory2-master.firebaseio.com",
+    "project_id": "laboratory2-master",
+    "storage_bucket": "laboratory2-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829976974493:android:9b4a559c6751c420",
+        "android_client_info": {
+          "package_name": "MelsitovSemik.study.laboratory2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829976974493-33ie8bm08innj4k275oaplcs0pbptucn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "MelsitovSemik.study.laboratory2",
+            "certificate_hash": "391ac8cb919d92be33242b8642765e301f5e8d50"
+          }
+        },
+        {
+          "client_id": "829976974493-snuu3f174hn5hj6tqbhfvoe61f9bgjh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASw7j3rOrf-W3pgM4-YDkFUm05dRFo7V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829976974493-snuu3f174hn5hj6tqbhfvoe61f9bgjh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

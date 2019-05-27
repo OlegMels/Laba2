@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Лабораторная работа 2</string>
+
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Авторизация</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_out">Выход</string>
+    <string name="update">Обновить</string>
+
+    <string name="meeting">Встреча</string>
+    <string name="search">Поиск</string>
+    <string name="quickly">Срочная</string>
+    <string name="planned">Плановая</string>
+    <string name="possible">По возможности</string>
+    <string name="error_date">Неверная дата</string>
+    <string name="title">Название встречи</string>
+    <string name="description">Описание встречи</string>
+    <string name="priority">Приоритет</string>
+    <string name="date_start">Дата начала встречи</string>
+    <string name="date_end">Дата окончания встречи</string>
+    <string name="select_date">Выберите дату</string>
+    <string name="date_pattern">%d.%d.%d</string>
+    <string name="select_meeting">Выберите дату</string>
+
+    <string name="share">Рассылка</string>
+
+    <string name="enter_title">Введите название</string>
+    <string name="enter_description">Введите описание</string>
+    <string name="create">Создать</string>
+    <string name="cancel">Отменить</string>
+    <string name="meeting_was_created">Встреча создана</string>
+    <string name="meeting_was_delete">Встреча удалена</string>
+    <string name="meeting_was_update">Встреча обновлена</string>
+    <string name="meeting_i_will_go">Ваше решение принято</string>
+    <string name="meeting_i_will_go_error">Произошла ошибка</string>
+    <string name="error_create_meeting">Ошибка создания встречи</string>
+    <string name="error_delete_meeting">Ошибка удаления встречи</string>
+    <string name="error_update_meeting">Ошибка обновления встречи</string>
+
+    <string name="error_password_empty">Введите пароль</string>
+    <string name="error_password_length">Пароль должен быть не менее 7 символов</string>
+    <string name="internet_disconnect">Нет подключения</string>
+    <string name="empty_list">Список пуст</string>
+
+    <string name="error_email_empty">Введите пароль</string>
+
+    <string name="auth_failed">Ошибка авторизации</string>
+    <string name="item_meeting_creator">Создатель: %s</string>
+    <string name="i_will_go">Я пойду</string>
+    <string name="i_will_not_go">Я не пойду</string>
+
+</resources>
